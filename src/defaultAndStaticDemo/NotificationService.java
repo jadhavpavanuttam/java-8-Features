@@ -1,4 +1,4 @@
-package defaultDemo;
+package defaultAndStaticDemo;
 interface NotificationService {
     void send(String message);
 

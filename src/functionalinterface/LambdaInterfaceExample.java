@@ -1,4 +1,4 @@
-package com.pavan.lambda;
+package functionalinterface;
 
 import java.util.Locale;
 import java.util.Scanner;

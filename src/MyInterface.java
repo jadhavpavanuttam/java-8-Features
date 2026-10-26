@@ -1,5 +1,3 @@
-package com.pavan.lambda;
-
 import java.util.Scanner;
 
 /*

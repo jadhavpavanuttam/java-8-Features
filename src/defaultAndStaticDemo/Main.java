@@ -1,4 +1,4 @@
-package defaultDemo;
+package defaultAndStaticDemo;
 
 class EmailNotification implements NotificationService {
     @Override

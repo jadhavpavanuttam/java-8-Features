@@ -1,6 +1,4 @@
-package com.pavan.lambda;
-
-    public class MyJavaClass implements Runnable{
+public class MyJavaClass implements Runnable{
         @Override
         public void run()
         {

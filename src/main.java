@@ -1,12 +1,3 @@
-package com.pavan.lambda;
-
-import java.lang.reflect.Array;
-import java.sql.ClientInfoStatus;
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.Collections;
-import java.util.List;
-
 public class main {
     public static void main(String[] args)throws Exception,Error {
         Runnable myJavaClass=()->{
